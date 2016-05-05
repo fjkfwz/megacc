@@ -1,0 +1,32 @@
+;   MEGA-CC (Molecular Evolutionary Genetics Analysis Compute Core)
+;
+;   Suggested Citation for MEGA-CC:
+;   MEGA-CC: Computing Core of Molecular Evolutionary Genetics
+;   Analysis Program for Automated and Iterative Data Analysis.
+;   Bioinformatics (2012) 28:2685-2686 (Epub 2012 Aug 24)
+
+
+; ****************************************************************************
+;        Please see the important message(s) at the bottom of this file 
+; ****************************************************************************
+
+[General Info]
+
+	Data Type                               = unknown
+	No. of Taxa                             =        0
+	Data File                               = 
+	Settings File                           = 
+	Command Line                            = 
+
+[Analysis Statistics]
+
+	Start Time                              = 30-4-16 21:09:21
+	End Time                                = 30-4-16 21:09:21
+	Execution Time                          =    0.001 (seconds)
+	Peak Memory Used(Working Set)           = Not available
+
+
+; ****************************************************************************
+;                 Please note the following important messages:
+; ****************************************************************************
+;	Error: Number of declared taxa (in !Format section) doens't match the number MEGA read.  Check for invalid characters in taxa names; Taxa which are missing or added but not declared in the !Format section. (in line 48)

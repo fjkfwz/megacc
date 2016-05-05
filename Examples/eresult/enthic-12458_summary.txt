@@ -1,0 +1,32 @@
+;   MEGA-CC (Molecular Evolutionary Genetics Analysis Compute Core)
+;
+;   Suggested Citation for MEGA-CC:
+;   MEGA-CC: Computing Core of Molecular Evolutionary Genetics
+;   Analysis Program for Automated and Iterative Data Analysis.
+;   Bioinformatics (2012) 28:2685-2686 (Epub 2012 Aug 24)
+
+
+; ****************************************************************************
+;        Please see the important message(s) at the bottom of this file 
+; ****************************************************************************
+
+[General Info]
+
+	Data Type                               = distance matrix
+	No. of Taxa                             =        0
+	Data File                               = 'enthic.meg'
+	Settings File                           = './infer_NJ_distances.mao'
+	Command Line                            = /usr/bin/megacc -a infer_NJ_distances.mao -d enthic.meg -o eresult
+
+[Analysis Statistics]
+
+	Start Time                              = 1-5-16 00:35:16
+	End Time                                = 1-5-16 00:35:16
+	Execution Time                          =    0.001 (seconds)
+	Peak Memory Used(Working Set)           = Not available
+
+
+; ****************************************************************************
+;                 Please note the following important messages:
+; ****************************************************************************
+;	Error: Error# 4510 encountered: Missing data or invalid distances in the marix
